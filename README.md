@@ -9,7 +9,7 @@ Ce projet présente un dashboard interactif réalisé avec Tableau Public, explo
 ## Accéder au Dashboard
 Cliquez sur le lien ci-dessous pour consulter le dashboard interactif sur Tableau Public :
 
-🔗 [Lien vers le Dashboard]([[https://public.tableau.com/PROFILE_DE_TON_COMPTE](https://public.tableau.com/views/LLM_17320356870780/DashboardVeilleLLMestimative?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+🔗 [Lien vers le Dashboard](https://public.tableau.com/views/LLM_17320356870780/DashboardVeilleLLMestimative?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## À propos
 - **Technologie** : Tableau Public
